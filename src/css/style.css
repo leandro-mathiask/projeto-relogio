@@ -1,0 +1,46 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    
+}
+main {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(120deg, #fff, #052e0b);
+}
+
+.container {
+    width: 600px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: rgb(15, 21, 27) 0px 20px 30px -10px;
+}
+
+.container .time {
+    background-color: black;
+    width: 33.33%;
+    height: 45%;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.container .time span {
+    color: white;
+    font-size: 6rem;
+}
+
+.container .time span.text {
+    font-size: 1.3rem;
+    font-weight: 100;
+}
