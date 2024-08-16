@@ -27,11 +27,11 @@ Os usuários devem ser capazes de:
 
 Desktop
 
-![](./design/desktop-design.jpg)
+![](./design/desktop-design.png)
 
 Mobile
 
-![](./design/mobile-design.jpg)
+![](./design/mobile-design.png)
 
 
 ### Links
